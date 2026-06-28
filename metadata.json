@@ -1,0 +1,6 @@
+{
+  "name": "Undangan Wisuda Diniyah Sukamenak",
+  "description": "Undangan digital mobile-friendly Pelepasan Murid Kelas VI Diniyah Se-Desa Sukamenak dan Kenaikan Kelas MDT KH Zumrotul Muttaqin",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
